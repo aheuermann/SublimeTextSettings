@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Color Schemes by carlcalderon",
+		"ColorSchemeSelector",
+		"EditorConfig",
+		"HTML Mustache",
+		"HTML5",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}
